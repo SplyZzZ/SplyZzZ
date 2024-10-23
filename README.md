@@ -28,3 +28,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+## 🎬 Трохи натхнення:
+<p align="center">
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="400" height="200" />
+  <img src="https://media.giphy.com/media/3o7WIuVYzOfd2yyhO8/giphy.gif" width="400" height="200" />
+</p>
