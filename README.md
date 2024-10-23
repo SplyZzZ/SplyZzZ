@@ -42,7 +42,6 @@
     <div>
       <h2 style="font-family: 'Arial', sans-serif; color: #6a0dad;" align="center">📝 ~ Зв'яжіться зі мною ~ 📝</h2>
       <br>
-      <p align="center">Ось кілька моїх соціальних мереж:</p>
       <p align="center">
         <a href="https://discord.com/users/splyzzz_" target="_blank">
           <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
