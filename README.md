@@ -30,17 +30,4 @@
 </p>
 
 
-
-## 🌟 Додаткові віджети:
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SplyZzZ&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="400" height="200" alt="Gaming GIF" />
-  <img src="https://media.giphy.com/media/3o7WIuVYzOfd2yyhO8/giphy.gif" width="400" height="200" alt="Anime GIF" />
-</p>
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4A148C,100:7B1FA2&height=150&section=footer)
