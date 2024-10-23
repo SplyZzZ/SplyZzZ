@@ -1,6 +1,6 @@
 # Привіт! 👋 Я Стас Гречанюк!
 
-![Header](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fru%2Fgifs%2F%25D0%25B8%25D0%25B3%25D1%2580%25D1%258B&psig=AOvVaw0clsgh0HKypNoKSntDoFKL&ust=1729788962130000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJipzZf8pIkDFQAAAAAdAAAAABAE)  
+![Header](https://www.gifer.com/data/media/77/igry-video-igry-retro-igry.gif)  
 *(Красивий анімований GIF з темою ігор або аніме)*
 
 Я початківець у розробці ігор, особливо на Unreal Engine 5. Захоплююся створенням ігрових світів і механік та активно працюю над вдосконаленням своїх навичок у цій сфері.
