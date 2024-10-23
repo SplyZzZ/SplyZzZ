@@ -10,7 +10,7 @@
       <li><b>Ім'я:</b> Стас Гречанюк</li>
       <li><b>Спеціалізація:</b> Розробка ігрових механік</li>
       <li><b>Навички:</b> C++, Blueprints, Git, Visual Studio, Neovim</li>
-      <li><b>Хобі:</b> Розробка ігор, аніме, комп'ютерні ігри</li>
+      <li><b>Хобі:</b> Розробка ігор, комп'ютерні ігри</li>
       <br><br><br>
     </div>
     <div>
@@ -24,6 +24,18 @@
         <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       </p>
+      <br>
+    </div>
+    <div>
+      <h2 style="font-family: 'Arial', sans-serif; color: #6a0dad;" align="center">📊 ~ Моя статистика ~ 📊</h2>
+      <br>
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=SplyZzZ&show_icons=true&theme=radical" alt="GitHub Stats" />
+        <br><br>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=SplyZzZ&theme=radical" alt="GitHub Streak" />
+        <br><br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SplyZzZ&layout=compact&theme=radical" alt="Top Languages" />
+      </div>
       <br>
     </div>
     <br>
@@ -47,3 +59,4 @@
     </div>
   </center>
 </body>
+
