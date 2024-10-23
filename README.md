@@ -1,16 +1,19 @@
-## Hi there 👋
+# Привіт! 👋 Я Стас Гречанюк!
 
-<!--
-**SplyZzZ/SplyZzZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я початківець у розробці ігор, особливо на Unreal Engine 5. Захоплююся створенням ігрових світів і механік, та активно працюю над вдосконаленням своїх навичок у цій сфері.
 
-Here are some ideas to get you started:
+- 🎮 Спеціалізація: розробка на **Unreal Engine 5**
+- 💻 Мови: **C++**, **Blueprints**
+- 🌱 Зараз вивчаю: глибоку інтеграцію UE5 та C++ для ігрових проектів
+- 🤝 Хочу співпрацювати в проєктах для Unreal Engine
+- 📫 Мій Telegram канал: [@spluzzz]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Навички:
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=fff)
+![Unreal Engine 5](https://img.shields.io/badge/-UE5-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+
+## Статистика GitHub:
+
+![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
