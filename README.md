@@ -7,7 +7,7 @@
       <div align="center">
         <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right" width="150">
       </div>
-      <ul style="list-style-type: none; padding-left: 20px;">
+      <ul style="list-style-type: none; padding-left: 40px;">
   <li><b>Ім'я:</b> Стас Гречанюк</li>
   <li><b>Спеціалізація:</b> Розробка ігрових механік</li>
   <li><b>Навички:</b> C++, Blueprints, Git, Visual Studio, Neovim</li>
