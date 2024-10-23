@@ -3,16 +3,6 @@
     <h1 align="center">~ 💖 Ласкаво просимо до мого профілю 💖 ~</h1>
     <br>
     <div align="center">
-      <a href="https://egirl.ing/">
-        <img src="https://lanyard.kyrie25.me/api/202740603790819328?showBanner=animated&waveColor=transparent&waveSpotifyColor=transparent&bannerFilter=brightness(0.8)%20blur(2px)&gradient=7E37F9-B48EF7-E568C4&imgStyle=square" />
-      </a>
-      <br>
-      <p>Є цілий новий світ, який вам потрібно дослідити!</p>
-      <p>Це звуки рейлу, які ви любите та обожнюєте.</p>
-      <p><a href="https://www.youtube.com/watch?v=CFlhlZbeKgE">- 𝒯𝐸𝒦𝒦𝒩𝒪 𝒯𝑅𝒜𝐼𝒩 - 𝐸𝓁𝑒𝒸𝓉𝓇𝒾𝒸 𝒞𝒶𝓁𝓁𝒷𝑜𝓎</a></p>
-    </div>
-
-    <div align="center">
       <h2 align="center">🦊 ~ Про мене ~ 🦊</h2>
       <div align="center">
         <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
@@ -25,7 +15,6 @@
       <li><b>Discord:</b> splyzzz_</li>
       <br><br><br>
     </div>
-
     <div>
       <h2 align="center">📇 ~ Знання ~ 📇</h2>
       <br>
@@ -44,9 +33,7 @@
       <br>
       <p>Я також дуже добре пишу посібники та документацію. Мені подобається працювати над графічним дизайном та анімацією персонажів.</p>
     </div>
-
     <br>
-
     <div>
       <h2 align="center">📝 ~ Зв'яжіться зі мною ~ 📝</h2>
       <div align="center">
@@ -63,9 +50,7 @@
         </a>
       </p>
     </div>
-
     <br>
-
     <div>
       <h2 align="center">💖 ~ Дякую за увагу! ~ 💖</h2>
       <div align="center">
