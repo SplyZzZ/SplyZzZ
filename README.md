@@ -1,4 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4A148C,100:7B1FA2&height=250&section=header&text=Привіт,%20я%20Стас%20Гречанюк!&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Розробник%20ігор%20на%20Unreal%20Engine%205&descAlign=70)
 
 ## 👾 Хто я:
 
