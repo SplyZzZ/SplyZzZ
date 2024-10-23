@@ -1,4 +1,3 @@
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4A148C,100:7B1FA2&height=250&section=header&text=Привіт,%20я%20Стас%20Гречанюк!&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Розробник%20ігор%20на%20Unreal%20Engine%205&descAlign=70)
 
 ## 👾 Хто я:
@@ -9,7 +8,7 @@
 - 💻 Основні навички: **C++**, **Blueprints**, **Git**, **Visual Studio**, **Neovim**.
 - 🌱 Постійно навчаюся новому та вдосконалюю свої навички в ігровій розробці.
 - 🤝 Відкритий до співпраці в цікавих проєктах.
-- 📫 Мій Telegram канал: [@spluzz]
+- 📫 Мій Telegram канал: [@spluzz](https://t.me/spluzz)
 
 ## 🛠️ Навички:
 
@@ -26,8 +25,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SplyZzZ&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SplyZzZ&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4A148C,100:7B1FA2&height=150&section=footer)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SplyZzZ&theme=tokyonight&hide_border=true" alt="GitHub
