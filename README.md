@@ -1,11 +1,11 @@
 <body>
   <center>
-    <h1 style="font-family: 'Arial', sans-serif; color: #6a0dad;" align="center">~ 💖 Ласкаво просимо до мого профілю 💖 ~</h1>
+    <h1 align="center">~ 💖 Ласкаво просимо до мого профілю 💖 ~</h1>
     <br>
     <div align="center">
-      <h2 style="font-family: 'Arial', sans-serif; color: #6a0dad;" align="center">🦊 ~ Про мене ~ 🦊</h2>
+      <h2 align="center">🦊 ~ Про мене ~ 🦊</h2>
       <div align="center">
-        <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right" width="150">
+        <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
       </div>
       <li><b>Ім'я:</b> Стас Гречанюк</li>
       <li><b>Спеціалізація:</b> Розробка ігрових механік</li>
@@ -14,7 +14,11 @@
       <br><br><br>
     </div>
     <div>
-      <h2 style="font-family: 'Arial', sans-serif; color: #6a0dad;" align="center">📇 ~ Знання ~ 📇</h2>
+      <h2 align="center">📇 ~ Знання ~ 📇</h2>
+      <br>
+      <div align="center">
+        <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+      </div>
       <br>
       <p align="center">
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -25,11 +29,22 @@
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       </p>
       <br>
-      <p style="font-family: 'Arial', sans-serif;">Мені подобається працювати над ігровими механіками.</p>
+      <p>Мені подобається працювати над ігровими механіками.</p>
     </div>
     <br>
     <div>
-      <h2 style="font-family: 'Arial', sans-serif; color: #6a0dad;" align="center">📝 ~ Зв'яжіться зі мною ~ 📝</h2>
+      <h2 align="center">📊 ~ Статистика ~ 📊</h2>
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api?username=SplyZzZ&show_icons=true&theme=radical" />
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SplyZzZ&layout=compact&theme=radical" />
+    </div>
+    <br>
+    <div>
+      <h2 align="center">📝 ~ Зв'яжіться зі мною ~ 📝</h2>
+      <div align="center">
+        <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+      </div>
       <br>
       <p align="center">Ось кілька моїх соціальних мереж:</p>
       <p align="center">
@@ -43,7 +58,10 @@
     </div>
     <br>
     <div>
-      <h2 style="font-family: 'Arial', sans-serif; color: #6a0dad;" align="center">💖 ~ Дякую за увагу! ~ 💖</h2>
+      <h2 align="center">💖 ~ Дякую за увагу! ~ 💖</h2>
+      <div align="center">
+        <img src="https://i.imgur.com/tzYKRfd.gif">
+      </div>
       <hr>
     </div>
   </center>
