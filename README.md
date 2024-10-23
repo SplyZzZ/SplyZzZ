@@ -1,75 +1,30 @@
-<body>
-  <center>
-    <h1 style="font-family: 'Arial', sans-serif; color: #6a0dad;" align="center">~ 💖 Ласкаво просимо до мого профілю 💖 ~</h1>
-    <br>
-    <div align="center">
-      <h2 style="font-family: 'Arial', sans-serif; color: #6a0dad;" align="center">🦊 ~ Про мене ~ 🦊</h2>
-      <div align="center">
-        <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right" width="150">
-      </div>
-      <table>
-        <tr>
-          <td><b>Ім'я:</b></td>
-          <td>Стас Гречанюк</td>
-        </tr>
-        <tr>
-          <td><b>Спеціалізація:</b></td>
-          <td>Розробка ігрових механік</td>
-        </tr>
-        <tr>
-          <td><b>Навички:</b></td>
-          <td>C++, Blueprints, Git, Visual Studio, Neovim</td>
-        </tr>
-        <tr>
-          <td><b>Хобі:</b></td>
-          <td>Розробка ігор, комп'ютерні ігри</td>
-        </tr>
-      </table>
-      <br><br><br>
-    </div>
-    <div>
-      <h2 style="font-family: 'Arial', sans-serif; color: #6a0dad;" align="center">📇 ~ Знання ~ 📇</h2>
-      <br>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white" />
-        <img src="https://img.shields.io/badge/Blueprints-5C6BC0?style=for-the-badge&logo=unreal-engine&logoColor=white" />
-        <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-        <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      </p>
-      <br>
-    </div>
-    <div>
-      <h2 style="font-family: 'Arial', sans-serif; color: #6a0dad;" align="center">📊 ~ Моя статистика ~ 📊</h2>
-      <br>
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=SplyZzZ&show_icons=true&theme=radical" alt="GitHub Stats" />
-        <br><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=SplyZzZ&theme=radical" alt="GitHub Streak" />
-        <br><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SplyZzZ&layout=compact&theme=radical" alt="Top Languages" />
-      </div>
-      <br>
-    </div>
-    <br>
-    <div>
-      <h2 style="font-family: 'Arial', sans-serif; color: #6a0dad;" align="center">📝 ~ Зв'яжіться зі мною ~ 📝</h2>
-      <br>
-      <p align="center">Ось кілька моїх соціальних мереж:</p>
-      <p align="center">
-        <a href="https://discord.com/users/splyzzz_" target="_blank">
-          <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
-        </a>
-        <a href="https://t.me/spluzz" target="_blank">
-          <img src="https://img.shields.io/badge/Telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white"/>
-        </a>
-      </p>
-    </div>
-    <br>
-    <div>
-      <h2 style="font-family: 'Arial', sans-serif; color: #6a0dad;" align="center">💖 ~ Дякую за увагу! ~ 💖</h2>
-      <hr>
-    </div>
-  </center>
-</body>
+# Привіт! 👋 Я Стас Гречанюк!
+
+![Header](https://www.gifer.com/data/media/77/igry-video-igry-retro-igry.gif)  
+<img src="https://i.gifer.com/77IG.gif" width="100%" alt="Igry">
+
+Я початківець у розробці ігор, особливо на Unreal Engine 5. Захоплююся створенням ігрових світів і механік та активно працюю над вдосконаленням своїх навичок у цій сфері.
+
+@@ -14,22 +13,17 @@
+## 🛠️ Мої навички:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine" />
+  <img src="https://img.shields.io/badge/Blueprints-5C6BC0?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Blueprints" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+## 🔥 Моя статистика на GitHub:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
